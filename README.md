@@ -1,0 +1,2 @@
+# closeAll
+Close All POS
